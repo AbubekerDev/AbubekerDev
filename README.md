@@ -1,4 +1,11 @@
-## Hi there 👋
+#** Hello and Welcome 👋, I'm Abubeker Nuru **
+
+##I’m Junior Full-Stack Developer and Wordpress Developer
+
+-🌱 I’m currently learning Full-Stack Development at Evangadi Tech
+-🔭 I’m currently working on CodeAlpha
+-📫 Contact me with [LinkedIn ](www.linkedin.com/in/abubeker-nuru-861815251)
+-⚡ Motto: >Keep striving for progress, not perfection
 
 <!--
 **AbubekerDev/AbubekerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
