@@ -1,6 +1,6 @@
 <h1> Hello and Welcome 👋, I'm Abubeker Nuru</h1>
 <hr>
-<h2>I’m Junior Full-Stack Developer and Wordpress Developer</h2>
+<h2>I’m Junior Full-Stack Developer</h2>
 <li>🌱 I’m currently learning Full-Stack Development at Evangadi Tech</li>
 <li>🔭 I’m currently working on CodeAlpha</li>
 <li>📫 Contact me with <a href="www.linkedin.com/in/abubeker-nuru-861815251">LinkedIn</a></li>
